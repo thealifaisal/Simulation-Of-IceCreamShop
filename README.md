@@ -20,8 +20,7 @@ PROJECT OBJECTIVES:
 * System Call
 	A Simple System Call Was Created For Printing The Activities Of A Thread In This Project.
 	
-	/*[System Call Prototype]*/ long sys_PrintStatement(char *buff ,int number)
-;
+	/*[System Call Prototype]*/ long sys_PrintStatement(char *buff ,int number);
 	
 	// Parameter 1: String To Be Printed
 	// Parameter 2: Integer Passed To Be Printed
