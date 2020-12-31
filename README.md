@@ -1,9 +1,9 @@
 ------------------------------------------------------ Ice Cream Factory Problem --------------------------------------------------
 
-COURSE: OPERATING SYSTEM
-\nOS: LINUX 4.13.1
-\nVERSION: v1.0
-\nLANGUAGE: C
+COURSE: OPERATING SYSTEM  
+OS: LINUX 4.13.1  
+VERSION: v1.0  
+LANGUAGE: C  
 
 PROJECT OBJECTIVES:
 
